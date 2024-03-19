@@ -1,0 +1,1035 @@
+.health-store-user-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.health-store-user-container1 {
+  width: 100%;
+  height: 701px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.health-store-user-text {
+  top: 125px;
+  color: rgb(255, 255, 255);
+  right: 87px;
+  width: 467px;
+  height: 74px;
+  position: absolute;
+  font-size: 54px;
+  font-family: "Poppins";
+  animation-name: none;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.health-store-user-layer3 {
+  right: 449px;
+  width: 139px;
+  bottom: 44px;
+  height: 118px;
+  z-index: 10000;
+  position: absolute;
+  animation-name: bounce;
+  animation-delay: 0s;
+  animation-duration: 2s;
+  animation-direction: normal;
+  animation-iteration-count: 2;
+  animation-timing-function: ease;
+}
+.health-store-user-messagesent-component-layout-max {
+  right: 595px;
+  width: 200px;
+  bottom: 94px;
+  height: var(--dl-size-size-small);
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-radius: 75px 75px 0;
+  flex-direction: column;
+  background-color: rgba(160, 233, 255, 1);
+}
+.health-store-user-timestampcontainer {
+  gap: 10px;
+  top: 12px;
+  left: 16px;
+  display: flex;
+  padding: 5px 0 0;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.health-store-user-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.health-store-user-container2 {
+  width: 100%;
+  height: 1003px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-end;
+  background-color: #cdf5fd;
+}
+.health-store-user-group24 {
+  top: -251px;
+  right: 160px;
+  width: 259px;
+  height: 97px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 20px;
+  background-color: #ffffff;
+}
+.health-store-user-text04 {
+  top: 5px;
+  left: 17px;
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: "Poppins";
+  font-weight: 600;
+  line-height: 140%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-text05 {
+  color: #0188b1;
+}
+.health-store-user-text06 {
+  color: #040404;
+}
+.health-store-user-text07 {
+  color: #0188b1;
+}
+.health-store-user-text08 {
+  color: #0188b1;
+}
+.health-store-user-image6 {
+  top: -253px;
+  right: 177px;
+  width: 83px;
+  height: 97px;
+  position: absolute;
+}
+.health-store-user-container3 {
+  width: 100%;
+  height: 959px;
+  display: flex;
+  overflow: auto;
+  position: relative;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.health-store-user-tk {
+  gap: 2px;
+  width: 53px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.health-store-user-pagecontrol {
+  gap: 11.830625534057617px;
+  right: -510px;
+  bottom: -202px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.health-store-user-dot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.health-store-user-tickcarousel {
+  width: 12px;
+  height: 12px;
+}
+.health-store-user-dot1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.health-store-user-tickcarousel1 {
+  width: 9px;
+  height: 9px;
+}
+.health-store-user-dot2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.health-store-user-tickcarousel2 {
+  width: 9px;
+  height: 9px;
+}
+.health-store-user-frame122 {
+  gap: 100px;
+  top: 600px;
+  right: 290px;
+  width: 924px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.health-store-user-productcart {
+  width: 156px;
+  height: 216px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.10000000149011612) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-white);
+}
+.health-store-user-change-image {
+  top: 0px;
+  left: 0px;
+  width: 156px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/external/tq_opqtsy9xpm-dqxb-200h-200h.png");
+}
+.health-store-user-frame48 {
+  gap: 4px;
+  top: 120px;
+  left: 0px;
+  width: 148px;
+  height: 96px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.health-store-user-frame121 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text09 {
+  color: var(--dl-color-neutral-gray600);
+  width: 132px;
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.health-store-user-frame61 {
+  gap: 4px;
+  width: 132px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-text11 {
+  color: var(--dl-color-neutral-dark);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.health-store-user-frame46 {
+  gap: 4px;
+  width: 132px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.health-store-user-badges {
+  gap: 10px;
+  display: flex;
+  padding: 4px 8px;
+  align-items: flex-start;
+  border-color: rgba(240, 68, 56, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-secondary-secondary50);
+}
+.health-store-user-text13 {
+  color: var(--dl-color-semantic-red400);
+  height: auto;
+  text-align: center;
+  line-height: 12px;
+}
+.health-store-user-text15 {
+  color: var(--dl-color-neutral-gray400);
+  height: auto;
+  text-align: center;
+  line-height: 12px;
+}
+.health-store-user-frame47 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-productcart1 {
+  width: 156px;
+  height: 216px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.10000000149011612) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-white);
+}
+.health-store-user-change-image1 {
+  top: 0px;
+  left: 0px;
+  width: 156px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/external/tq_wv1b8dlulc-lprs-200h-200h.png");
+}
+.health-store-user-frame481 {
+  gap: 4px;
+  top: 120px;
+  left: 0px;
+  width: 148px;
+  height: 96px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.health-store-user-frame1211 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text17 {
+  color: var(--dl-color-neutral-gray600);
+  width: 132px;
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.health-store-user-frame611 {
+  gap: 4px;
+  width: 132px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-text19 {
+  color: var(--dl-color-neutral-dark);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.health-store-user-productcart2 {
+  width: 156px;
+  height: 216px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.10000000149011612) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-white);
+}
+.health-store-user-change-image2 {
+  top: 0px;
+  left: 0px;
+  width: 156px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/external/tq_bz_6-tgjjc-icia-200h-200h.png");
+}
+.health-store-user-frame482 {
+  gap: 4px;
+  top: 120px;
+  left: 0px;
+  width: 148px;
+  height: 96px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.health-store-user-frame1212 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text21 {
+  color: var(--dl-color-neutral-gray600);
+  width: 132px;
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.health-store-user-frame612 {
+  gap: 4px;
+  width: 132px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-text23 {
+  color: var(--dl-color-neutral-dark);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.health-store-user-productcart3 {
+  width: 156px;
+  height: 216px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.10000000149011612) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-white);
+}
+.health-store-user-change-image3 {
+  top: 0px;
+  left: 0px;
+  width: 156px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/external/tq_y2eio3sx74-buym-200h-200h.png");
+}
+.health-store-user-frame483 {
+  gap: 4px;
+  top: 120px;
+  left: 0px;
+  width: 148px;
+  height: 96px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.health-store-user-frame1213 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text25 {
+  color: var(--dl-color-neutral-gray600);
+  width: 132px;
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.health-store-user-frame613 {
+  gap: 4px;
+  width: 132px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-text27 {
+  color: var(--dl-color-neutral-dark);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.health-store-user-frame461 {
+  gap: 4px;
+  width: 132px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.health-store-user-badges1 {
+  gap: 10px;
+  display: flex;
+  padding: 4px 8px;
+  align-items: flex-start;
+  border-color: rgba(240, 68, 56, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-secondary-secondary50);
+}
+.health-store-user-text29 {
+  color: var(--dl-color-semantic-red400);
+  height: auto;
+  text-align: center;
+  line-height: 12px;
+}
+.health-store-user-text31 {
+  color: var(--dl-color-neutral-gray400);
+  height: auto;
+  text-align: center;
+  line-height: 12px;
+}
+.health-store-user-frame471 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-card {
+  gap: 24px;
+  top: 101px;
+  right: 175px;
+  width: 1140px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.health-store-user-card1 {
+  gap: 14px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-image1 {
+  width: 364px;
+  height: 354px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-gray3);
+}
+.health-store-user-replace-this {
+  width: 448px;
+  height: 352px;
+}
+.health-store-user-text33 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-price {
+  gap: 18px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-text35 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-text37 {
+  color: rgba(1, 136, 177, 1);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-card2 {
+  gap: 14px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-image2 {
+  width: 364px;
+  height: 354px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-gray3);
+}
+.health-store-user-replace-this1 {
+  width: 485px;
+  height: 354px;
+}
+.health-store-user-text39 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-price1 {
+  gap: 18px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-text41 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-text43 {
+  color: rgba(1, 136, 177, 1);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-card3 {
+  gap: 14px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-image3 {
+  width: 364px;
+  height: 354px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-gray3);
+}
+.health-store-user-replace-this2 {
+  width: 453px;
+  height: 352px;
+}
+.health-store-user-text45 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-price2 {
+  gap: 18px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-text47 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-text49 {
+  color: rgba(1, 136, 177, 1);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-icon-box {
+  gap: 71px;
+  right: 175px;
+  width: 1105px;
+  bottom: -10px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.health-store-user-icon-box1 {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-truck {
+  width: 44px;
+  height: 44px;
+}
+.health-store-user-title {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text51 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-text53 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-icon-box2 {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-creditcard {
+  width: 44px;
+  height: 44px;
+}
+.health-store-user-title1 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text55 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-text57 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-icon-box3 {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-gift {
+  width: 44px;
+  height: 44px;
+}
+.health-store-user-title2 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text59 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-text61 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-icon-box4 {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.health-store-user-users {
+  width: 44px;
+  height: 44px;
+}
+.health-store-user-title3 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.health-store-user-text63 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-text65 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.health-store-user-frame5 {
+  gap: 10px;
+  width: 246px;
+  height: auto;
+  display: flex;
+  padding: 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.health-store-user-text67 {
+  color: rgba(0, 69, 90, 1);
+  height: auto;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-store-user-icon {
+  top: 681px;
+  right: 168px;
+  width: 76px;
+  height: 76px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.health-store-user-container4 {
+  width: 100%;
+  height: 222px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0188b1;
+}
+.health-store-user-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.health-store-user-container5 {
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.health-store-user-nav {
+  flex: 0 0 auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+  flex-direction: row;
+}
+.health-store-user-text69 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: 0px;
+}
+.health-store-user-text70 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.health-store-user-text71 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.health-store-user-text72 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.health-store-user-text73 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.health-store-user-separator {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 0px;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  margin-left: 0px;
+  border-color: var(--dl-color-gray-900);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0px;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.health-store-user-container6 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.health-store-user-text74 {
+  color: #ffffff;
+}
+.health-store-user-text75 {
+  top: -63px;
+  color: #efefef;
+  right: 7px;
+  position: absolute;
+  font-size: 18px;
+}
+.health-store-user-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.health-store-user-icon1 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+}
+.health-store-user-icon3 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+}
+.health-store-user-icon5 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+@media(max-width: 767px) {
+  .health-store-user-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .health-store-user-separator {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .health-store-user-container6 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .health-store-user-text74 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .health-store-user-text75 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+}
+@media(max-width: 479px) {
+  .health-store-user-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .health-store-user-separator {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .health-store-user-container6 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .health-store-user-text74 {
+    text-align: center;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .health-store-user-text75 {
+    text-align: center;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+}

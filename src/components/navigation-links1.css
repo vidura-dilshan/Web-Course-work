@@ -1,0 +1,102 @@
+.navigation-links1-nav {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+.navigation-links1-navlink {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Poppins";
+  text-decoration: none;
+}
+.navigation-links1-navlink1 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Poppins";
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links1-navlink2 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Poppins";
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links1-text {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Poppins";
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links1-text1 {
+  color: #ffffff;
+  font-size: 20px;
+  align-self: center;
+  font-family: "Poppins";
+  margin-left: var(--dl-space-space-twounits);
+}
+
+
+
+
+
+
+
+
+.navigation-links1-root-class-name9 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links1-root-class-name10 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links1-root-class-name13 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links1-root-class-name14 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links1-root-class-name15 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+@media(max-width: 767px) {
+  .navigation-links1-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links1-navlink {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink2 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-text {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-text1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

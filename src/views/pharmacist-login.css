@@ -1,0 +1,687 @@
+.pharmacist-login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pharmacist-login-container1 {
+  width: 100%;
+  height: 701px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.pharmacist-login-navlink {
+  display: contents;
+}
+.pharmacist-login-rectangle14 {
+  top: 273px;
+  right: 164px;
+  width: 127px;
+  height: 68px;
+  position: absolute;
+  box-sizing: content-box;
+  transition: 0.3s;
+  border-color: #bfea7c;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 0 60px 60px 0;
+  text-decoration: none;
+}
+
+.pharmacist-login-navlink1 {
+  display: contents;
+}
+.pharmacist-login-rectangle13 {
+  top: 273px;
+  right: 300px;
+  width: 127px;
+  height: 68px;
+  z-index: 1000;
+  position: absolute;
+  box-sizing: content-box;
+  transition: 0.3s;
+  border-color: #bfea7c;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 60px 0 0 60px;
+  text-decoration: none;
+}
+.pharmacist-login-rectangle13:hover {
+  border-color: var(--dl-color-danger-300);
+}
+.pharmacist-login-text {
+  top: 296px;
+  color: rgba(0, 69, 90, 1);
+  right: 176px;
+  height: auto;
+  z-index: 10000;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-text02 {
+  top: 297px;
+  color: rgba(0, 69, 90, 1);
+  right: 338px;
+  height: auto;
+  z-index: 10000;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-text04 {
+  color: rgba(0, 105, 255, 1);
+  right: 221px;
+  bottom: 46px;
+  height: auto;
+  z-index: 1000;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.pharmacist-login-textinput {
+  top: 403px;
+  right: 117px;
+  width: 346px;
+  height: 50px;
+  z-index: 1000;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 5px;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.pharmacist-login-navlink2 {
+  color: rgb(255, 255, 255);
+  right: 317px;
+  width: 118.2px;
+  bottom: 88px;
+  height: 58.67px;
+  z-index: 1000;
+  position: absolute;
+  font-size: 26px;
+  transition: 0.3s;
+  font-family: "Poppins";
+  padding-top: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  background-color: #336818;
+}
+.pharmacist-login-navlink2:hover {
+  color: #2f6118;
+  background-color: var(--dl-color-gray-white);
+}
+.pharmacist-login-textinput1 {
+  top: 479px;
+  right: 117px;
+  width: 346px;
+  height: 50px;
+  z-index: 1000;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 5px;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.pharmacist-login-navlink3 {
+  color: #336818;
+  right: 119px;
+  width: 165.65px;
+  bottom: 88px;
+  height: 58.67px;
+  z-index: 1000;
+  position: absolute;
+  font-size: 26px;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 800;
+  padding-top: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.pharmacist-login-text06 {
+  top: 125px;
+  color: #ffffff;
+  right: 87px;
+  width: 732px;
+  position: absolute;
+  font-size: 54px;
+  font-family: "Poppins";
+  animation-name: none;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.pharmacist-login-layer3 {
+  right: 650px;
+  width: 139px;
+  bottom: 3px;
+  height: 118px;
+  z-index: 10000;
+  position: absolute;
+  animation-name: bounce;
+  animation-delay: 0s;
+  animation-duration: 2s;
+  animation-direction: normal;
+  animation-iteration-count: 2;
+  animation-timing-function: ease;
+}
+.pharmacist-login-messagesent-component-layout-max {
+  right: 798px;
+  width: 200px;
+  bottom: 41px;
+  height: var(--dl-size-size-small);
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-radius: 75px 75px 0;
+  flex-direction: column;
+  background-color: #9bcf53;
+}
+.pharmacist-login-timestampcontainer {
+  gap: 10px;
+  top: 12px;
+  left: 16px;
+  display: flex;
+  padding: 5px 0 0;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.pharmacist-login-rectangle3 {
+  right: 85px;
+  width: 411px;
+  bottom: 31px;
+  height: 300px;
+  margin: auto;
+  z-index: 50;
+  position: absolute;
+  border-radius: 35px;
+}
+.pharmacist-login-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.pharmacist-login-container2 {
+  width: 100%;
+  height: 1003px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-end;
+  background-color: #bfea7c;
+}
+.pharmacist-login-group28 {
+  right: 200px;
+  width: 994px;
+  bottom: -22px;
+  height: 347px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pharmacist-login-frame4 {
+  gap: 10px;
+  top: -37px;
+  left: 371px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pharmacist-login-text12 {
+  color: rgba(0, 69, 90, 1);
+  height: auto;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-group27 {
+  top: 131px;
+  left: 0px;
+  width: 828px;
+  height: 214px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pharmacist-login-frame1 {
+  gap: 150px;
+  top: -69px;
+  flex: 1;
+  left: 9px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+}
+.pharmacist-login-layer1 {
+  width: var(--dl-size-size-xlarge);
+  height: var(--dl-size-size-xlarge);
+}
+.pharmacist-login-layer11 {
+  width: var(--dl-size-size-xxlarge);
+  height: 180px;
+}
+.pharmacist-login-layer12 {
+  width: var(--dl-size-size-xlarge);
+  height: var(--dl-size-size-xlarge);
+}
+.pharmacist-login-frame84 {
+  gap: 200px;
+  right: -134px;
+  width: 919px;
+  bottom: 11px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.pharmacist-login-text14 {
+  color: rgb(0, 69, 90);
+  width: 200px;
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-text18 {
+  color: rgb(0, 69, 90);
+  width: 200px;
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-text22 {
+  color: rgb(0, 69, 90);
+  width: 200px;
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-text23 {
+  top: 270px;
+  right: 233px;
+  position: absolute;
+  font-size: 25px;
+  font-family: "Poppins";
+}
+.pharmacist-login-pasted-image {
+  top: 173px;
+  right: 700px;
+  width: 500px;
+  height: 360px;
+  position: absolute;
+  border-radius: 50px;
+}
+.pharmacist-login-messagesent-component-layout-max1 {
+  top: 3px;
+  right: 829px;
+  width: 150px;
+  height: 30px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  flex-shrink: 0;
+  border-radius: 75px 75px 0;
+  flex-direction: column;
+  background-color: #9bcf53;
+}
+.pharmacist-login-timestampcontainer1 {
+  gap: 10px;
+  top: 12px;
+  left: 16px;
+  display: flex;
+  padding: 5px 0 0;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.pharmacist-login-text39 {
+  top: 2px;
+  color: rgba(0, 0, 0, 1);
+  right: 810px;
+  width: 127px;
+  height: auto;
+  z-index: 10000;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 800;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-group24 {
+  top: 75px;
+  right: 125px;
+  width: 259px;
+  height: 97px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 20px;
+  background-color: #ffffff;
+}
+.pharmacist-login-text41 {
+  top: 5px;
+  left: 17px;
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: "Poppins";
+  font-weight: 600;
+  line-height: 140%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pharmacist-login-text42 {
+  color: #bfea7c;
+}
+.pharmacist-login-text43 {
+  color: #000000;
+}
+.pharmacist-login-text44 {
+  color: #000000;
+}
+.pharmacist-login-text45 {
+  color: #bfea7c;
+}
+.pharmacist-login-text46 {
+  color: #0188b1;
+}
+.pharmacist-login-image6 {
+  top: 73px;
+  right: 144px;
+  width: 83px;
+  height: 97px;
+  position: absolute;
+}
+.pharmacist-login-container3 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #bfea7c;
+}
+.pharmacist-login-tk {
+  gap: 2px;
+  width: 53px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.pharmacist-login-pagecontrol {
+  gap: 11.830625534057617px;
+  right: -510px;
+  bottom: -202px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.pharmacist-login-dot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pharmacist-login-tickcarousel {
+  width: 12px;
+  height: 12px;
+}
+.pharmacist-login-dot1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pharmacist-login-tickcarousel1 {
+  width: 9px;
+  height: 9px;
+}
+.pharmacist-login-dot2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pharmacist-login-tickcarousel2 {
+  width: 9px;
+  height: 9px;
+}
+.pharmacist-login-container4 {
+  width: 100%;
+  height: 222px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #336818;
+}
+.pharmacist-login-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.pharmacist-login-container5 {
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.pharmacist-login-nav {
+  flex: 0 0 auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+  flex-direction: row;
+}
+.pharmacist-login-text47 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: 0px;
+}
+.pharmacist-login-text48 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.pharmacist-login-text49 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.pharmacist-login-text50 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.pharmacist-login-text51 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.pharmacist-login-separator {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 0px;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  margin-left: 0px;
+  border-color: var(--dl-color-gray-900);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0px;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.pharmacist-login-container6 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pharmacist-login-text52 {
+  color: #ffffff;
+}
+.pharmacist-login-text53 {
+  top: -63px;
+  color: #efefef;
+  right: 7px;
+  position: absolute;
+  font-size: 18px;
+}
+.pharmacist-login-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pharmacist-login-icon {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+}
+.pharmacist-login-icon2 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+}
+.pharmacist-login-icon4 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+@media(max-width: 767px) {
+  .pharmacist-login-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .pharmacist-login-separator {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .pharmacist-login-container6 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .pharmacist-login-text52 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .pharmacist-login-text53 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+}
+@media(max-width: 479px) {
+  .pharmacist-login-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .pharmacist-login-separator {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .pharmacist-login-container6 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .pharmacist-login-text52 {
+    text-align: center;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .pharmacist-login-text53 {
+    text-align: center;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+}
